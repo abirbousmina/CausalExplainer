@@ -1,0 +1,11 @@
+pandas~=2.0.1
+numpy~=1.25.2
+cody~=0.1.1
+ipython~=8.19.0
+tqdm~=4.65.0
+numba~=0.60.0
+torch~=2.0.1
+scikit-learn~=1.3.2
+ttgn~=0.0.1
+tgn~=0.0.1
+setuptools~=68.2.2
